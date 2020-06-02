@@ -1,5 +1,122 @@
+<!DOCTYPE HTML>
+
 <html>
-  <head>
-  
-  </head>
+	<head>
+		<title>Arcana by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	
+	</head>
+	<body>
+		<div id="page-wrapper">
+
+			
+				<div id="header">
+
+					
+						<h1><a href="index.html" id="logo">Eco-Green-car<em>(ECG)</em></a></h1>
+
+				
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html"  class="skel-layers-ignoreHref">Home</a></li>
+								<li><a href="top.html"  class="skel-layers-ignoreHref">Top 10</a></li>
+								<li><a href="ele.html"  class="skel-layers-ignoreHref">Electric Car</a></li>
+								<li><a href="com.html"  class="skel-layers-ignoreHref">Community</a></li>
+								<li><a href="newa.html" class="skel-layers-ignoreHref">News and Reviews</a></li>
+								<li><a href="tools.html"  class="skel-layers-ignoreHref">Tools and Calulator</a></li>
+								<li><a href="join.html"  class="skel-layers-ignoreHref">Join</a></li>
+							</ul>
+						</nav>
+
+				</div>
+				
+				<section id="banner">
+				</section>
+				
+				<section class="wrapper style1">
+					<div class="container">
+
+
+									<h2>FAQ</h2>
+								<img src="images/200.jpg" alt="aa" Width='650' Height='400'/>	
+								<img src="images/qq.jpg" alt="bb" Width='650' Height='400'/>
+								<br/><br/><br/>
+									<h3>How do I pay for my rental and how can I confirm my reservation with payment?</h3>
+										<ul><li><em>Auto Europe gladly accepts American Express, Mastercard and Visa. Personal Checks are also accepted providing you purchase CDW and Theft Protection on your rental. 
+											At this time we would like to advise that personal checks are not accepted locally. If you do not feel comfortable sending your credit card details by email please 
+											visit our secured server for credit card payment.</em></li></ul><br/>
+
+										<h3>How is my rate guaranteed?</h3>
+										<ul><li><em>All rates are guaranteed in US Dollars and for most reservations we only require a partial pre-payment.</em></li>
+										</ul>
+										<br/>
+
+										<h3>What do I need to pick-up my car?</h3>
+										<ul>
+										<li><em>To pick up your rental you will need a reservation voucher from Auto Europe. A reservation voucher contains specific information needed by the car rental supplier
+											at time of pick up.Reservation vouchers will be either faxed or emailed to you immediately once payment is applied to the reservation. Reservations made online can be
+											mailed to you upon request. Please feel free to take a look at our Sample Voucher for more information.</em></li></ul>
+								<br/>
+
+									<h3>How we help our customer when they are entering to our website?</h3>
+									<ul>
+									<li><em>For getting information about new car and event, customer need to create account in our website then we sent some information to cutomer.
+									It's not too hard to create account just need to enter some information like name passward and Email. After creating account, you can 
+									easily enter to our website anytime anywhere with your name and password. Company sent new promotion and events into your email Once a month or sometimes.</em></li></ul>
+						
+						</div>
+					
+				</section>
+<div class="login-wrap">
+	<div class="login-html">
+		<input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Sign In</label>
+		<input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">Sign Up</label>
+		<div class="login-form">
+			<div class="sign-in-htm">
+				<div class="group">
+					<label for="user" class="label">Username</label>
+					<input id="user" type="text" class="input">
+				</div>
+				<div class="group">
+					<label for="pass" class="label">Password</label>
+					<input id="pass" type="password" class="input" data-type="password">
+				</div>
+				<div class="group">
+					<input id="check" type="checkbox" class="check" checked>
+					<label for="check"><span class="icon"></span> Keep me Signed in</label>
+				</div>
+				<div class="group">
+					<input type="submit" class="button" value="Sign In">
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+				
+		
+				<div id="footer">
+					
+						<ul class="icons">
+							<li><a href="#"><span class="label"><img src=" images/T.jpg" alt="ada" Width='45' Height='30'/>Twitter</span></a></li>
+							<li><a href="#" ><span class="label"><img src=" images/F.jpg" alt="asta" Width='45' Height='30'/>Facebook</span></a></li>
+							<li><a href="#" ><span class="label"><img src=" images/L.jpg" alt="aswda" Width='45' Height='30'/>GitHub</span></a></li>
+							<li><a href="#" ><span class="label"><img src=" images/i.jpg" alt="aea" Width='45' Height='30'/>LinkedIn</span></a></li>
+							<li><a href="#" ><span class="label"><img src=" images/g.png" alt="a4a" Width='45' Height='30'/>Google+</span></a></li>
+						</ul>
+						<div class="copyright">
+							<ul class="menu">
+								<li>&copy; Untitled. All rights reserved</li><li>Design By: Nay Thu Ya Oo</li>
+							</ul>
+						</div>
+
+				</div>
+
+		</div>
+
+	
+
+	</body>
 </html>
